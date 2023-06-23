@@ -35,9 +35,11 @@ For GPU running, we run `setup_gpu.sh` file using the command:
 
 # Image processing step 
 
-To perform inference on an example image using PaddleOCR, you can use the `main.py` file. The default image for inference is `00002.png`. Alternatively, you can specify a different image as a command-line argument, as shown below:
+To perform inference on an example image using PaddleOCR, you can use the `main.py` file. The default image for inference is `eng.png`. Alternatively, you can specify a different image as a command-line argument, as shown below:
 
-`python3 main.py --img 00002.png`
+`python3 main.py --img eng.png`
+
+The text result is saved in the `result` folder.
 
 # Performance
 
