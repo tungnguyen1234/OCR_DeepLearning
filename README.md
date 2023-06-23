@@ -52,8 +52,9 @@ According to the Levenshtein Distance metric and GPU latency, PaddleOCR's PP-OCR
 # Multilingual purpose
 PaddleOCR supports over [80 languages](https://github.com/PaddlePaddle/PaddleOCR/blob/release/2.6/doc/doc_en/multi_languages_en.md#language_abbreviations). The API can be used for multilingual purpose without specifying the language parameter.
 
-# License
-This package is under the Apache-2.0 license.
+<a name="LICENSE"></a>
+# 📄 License
+This project is released under <a href="https://github.com/tungnguyen1234/OCR_DeepLearning/blob/main/LICENSE">Apache 2.0 license</a>
 
 # Authors
 Tung Nguyen
